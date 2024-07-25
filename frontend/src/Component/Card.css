@@ -1,0 +1,36 @@
+.cardmain{
+    margin-top: 40px;
+    margin-left: 40px;
+    background-color: grey;
+    width:200px;
+    height:200px;
+}
+#cardimg{
+    width:200px;
+    height:200px;
+
+}
+.cardtitle{
+    margin-left:52px;
+    color: blueviolet;
+}
+.cardbtns{
+display: flex;
+flex-direction: row;
+    margin-left: 28px;
+}
+#buynow{
+    background-color: blueviolet;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    font-size: 14px;
+}
+#addtocart{
+    background-color: blueviolet;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    font-size: 14px;
+    margin-left: 4px;
+}

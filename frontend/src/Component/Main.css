@@ -1,0 +1,98 @@
+.navbar{
+    display: flex;
+    flex-direction: row;
+    background-color: beige;
+}
+.navbar_heading{
+    font-size: 25px;
+    color: blueviolet;
+    padding-top: 20px;
+    padding-left:30px;
+}
+.search_text{
+    margin-left:350px;
+    margin-top:25px;
+display:flex;
+border:none;
+flex-direction: row;
+}
+#box_search{
+    margin-top: 0.5px;
+    height:27px;
+    width: 400px;
+}
+#box_search:hover{
+    margin-top: 0.5px;
+    height:27px;
+    width: 400px;
+    border:2px solid blueviolet;
+}
+#box_search::placeholder{
+    color: blueviolet;
+}
+#box_search:focus{
+    margin-top: 0.5px;
+    height:27px;
+    width: 400px;
+    border:2px solid blueviolet;
+}
+#searchicon{
+    border: none;
+    background-color: blueviolet;
+    color: white;
+
+}
+.profile{
+margin-left: 300px;
+width: 200px;
+}
+#welcomeuser{
+    margin-left: 55px;
+    color:blueviolet;
+}
+.profilesub{
+    margin-top:5px;
+}
+#addcart{
+    background-color: beige;
+    border: none;
+    margin-left: 5px;
+    color: maroon;
+}
+#profilesettings{
+    margin-left: 41px;
+    background-color: beige;
+    border: none;
+    color: maroon;
+}
+#logoutbtn{
+    margin-left: 41px;
+    background-color: beige;
+    border: none;
+    color: maroon;
+}
+.firstrow{
+    margin-top:40px;
+    display: flex;
+    flex-direction: row;
+}
+.firstrow_title{
+    margin-left: 600px;
+    margin-top:50px ;
+    font-size: 30px;
+    color: blueviolet;
+    font-weight:500;
+    font-family: sans-serif;
+}
+.secondrow_title{
+    margin-left: 600px;
+    margin-top:120px ;
+    font-size: 30px;
+    color: blueviolet;
+    font-weight:500;
+    font-family: sans-serif;
+}
+
+.footer{
+    margin-top:200px;
+}

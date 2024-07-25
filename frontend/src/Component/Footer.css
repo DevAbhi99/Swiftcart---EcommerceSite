@@ -1,0 +1,37 @@
+.footersubone{
+    background-color: rgb(24, 203, 203);
+    height:50px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 700px;
+}
+#followtxt{
+    color:yellow;
+    font-size: 20px;
+    margin-left: 10px;
+    margin-bottom: 5px;
+}
+#fbicon{
+    color:rgb(84, 84, 226);
+    margin-left: 5px;
+}
+#twittericon{
+    color:black;
+    margin-left: 10px;
+}
+#linkicon{
+    color:blue;
+    margin-left: 10px;
+}
+#instaicon{
+    color:rgb(239, 89, 239);
+    margin-left: 10px;    
+}
+.footersubtwo{
+    background-color: rgb(15, 137, 137);
+    padding-left: 650px;
+    color:wheat;
+}
+#swiftfooter{
+    margin-left: 5px;
+}

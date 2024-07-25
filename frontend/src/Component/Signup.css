@@ -1,0 +1,133 @@
+.signup_page{
+    display: flex;
+    flex-direction: row;
+}
+.signup_heading{
+    margin-left:180px;
+    font-size: 30px;
+    margin-top: 100px;
+    color: blueviolet;
+    font-weight: 700;
+}
+.namefield{
+margin-left: 150px;
+margin-top:90px;
+width: 400px;
+height:30px;
+border: 1px solid blueviolet;
+padding-top: 15px;
+padding-left: 10px;
+color:blueviolet;
+}
+#nametxt{
+    border:none;
+    width:300px;
+    margin-left: 40px;
+    
+}
+#nametxt:focus{
+    outline:none;
+}
+#nametxt::placeholder{
+    color: blueviolet;
+    font-size: 16px;
+}
+.emailfield{
+    margin-left: 150px;
+    margin-top:20px;
+    width: 400px;
+    height:30px;
+    border: 1px solid blueviolet;
+    padding-top: 15px;
+    padding-left: 10px;
+    color:blueviolet;
+    }
+    #emailtxt{
+        border:none;
+        width:300px;
+        margin-left: 40px;
+        background-color: rgb(245, 232, 234);
+    }
+    #emailtxt:focus{
+        outline:none;
+    }
+    #emailtxt::placeholder{
+        color: blueviolet;
+        font-size: 16px;
+    }
+    .phonefield{
+        margin-left: 150px;
+        margin-top:20px;
+        width: 400px;
+        height:30px;
+        border: 1px solid blueviolet;
+        padding-top: 15px;
+        padding-left: 10px;
+        color:blueviolet;
+        }
+        #phonetxt{
+            border:none;
+            width:300px;
+            margin-left: 40px;
+            background-color: rgb(245, 232, 234);
+        }
+        #phonetxt:focus{
+            outline:none;
+        }
+        #phonetxt::placeholder{
+            color: blueviolet;
+            font-size: 16px;
+        }
+    .passwordfield{
+        margin-left: 150px;
+        margin-top:20px;
+        width: 400px;
+        height:30px;
+        border: 1px solid blueviolet;
+        padding-top: 15px;
+        padding-left: 10px;
+        color:blueviolet;
+        }
+        #passwordtxt{
+            border:none;
+            width:300px;
+            margin-left: 40px;
+            background-color: rgb(245, 232, 234);
+        }
+        #passwordtxt:focus{
+            outline:none;
+        }
+        #passwordtxt::placeholder{
+            color: blueviolet;
+            font-size: 16px;
+        }
+     .signupbtn{
+        margin-left:440px;
+        margin-top: 40px;
+     }   
+     #btnsignup{
+        width:120px;
+        height:30px;
+        font-size: 16px;
+        background-color: blueviolet;
+        color:white;
+        border: none;
+        border-radius: 10px;
+     }
+     .loginroute{
+        margin-top:40px;
+        margin-left:170px;
+        font-size: 16px;
+        font-weight: 400;
+     }
+     #routelogin{
+        border:none;
+        background-color: rgb(245, 232, 234);;
+        color:blueviolet;
+        font-size: 16px;
+     }
+
+#img_branding{
+    width:800px;
+    height:738.5px;
+}
